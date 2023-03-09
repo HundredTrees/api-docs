@@ -1,0 +1,15 @@
+__pycache__
+*.py[cod]
+build/
+dist/
+eggs/
+.eggs/
+sdist/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+docs/_build/
+__pypackages__/
+.mypy_cache/
